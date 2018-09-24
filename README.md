@@ -1,7 +1,7 @@
 CSUF CPSC 131, Fall 2017
 Project 1
 
-MUST EDIT WITH YOUR OWN NAME AND EMAIL IN THE SAME FORMAT
+Calculate a grocery bill given a list in text file.
 
 Group members:
 Steven Kha  stevenkha@csu.fullerton.edu
